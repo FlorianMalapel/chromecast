@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url("https://github.com/PetitBamBou/PbAndroid/blob/castNewProgress/ChromeCast/background.png");
+  background: center no-repeat url("https://rawgit.com/FlorianMalapel/chromecast/master/background.png");
 }
 
 .logo {
-  background-image: url("https://github.com/PetitBamBou/PbAndroid/blob/castNewProgress/ChromeCast/logo_pbb.png");
+  background-image: url("https://rawgit.com/FlorianMalapel/chromecast/master/logo_pbb.png");
 }
 
 .progressBar {
@@ -11,7 +11,7 @@
 }
 
 .splash {
-  background-image: url("https://github.com/PetitBamBou/PbAndroid/blob/castNewProgress/ChromeCast/logo_pbb.png");
+  background-image: url("https://rawgit.com/FlorianMalapel/chromecast/master/logo_pbb.png");
 }
 
 .watermark {
