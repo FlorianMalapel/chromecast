@@ -1,5 +1,6 @@
 .background {
-  background: cover no-repeat url("https://rawgit.com/FlorianMalapel/chromecast/master/background.png");
+    background: no-repeat url("https://rawgit.com/FlorianMalapel/chromecast/master/background.png");
+    background-size: cover;
 }
 
 .logo {
