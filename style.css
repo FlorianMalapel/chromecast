@@ -4,7 +4,7 @@
 
 .logo {
   background-image: url("https://rawgit.com/FlorianMalapel/chromecast/master/logo_pbb.png");
-  background-size: 520px 520px;
+  background-size: 420px 420px;
 }
 
 .progressBar {
@@ -13,7 +13,7 @@
 
 .splash {
   background-image: url("https://rawgit.com/FlorianMalapel/chromecast/master/logo_pbb.png");
-  background-size: 720px 720px; 
+  background-size: 420px 420px; 
 }
 
 .watermark {
